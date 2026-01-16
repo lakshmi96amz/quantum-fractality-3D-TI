@@ -22,10 +22,7 @@ states discussed in the paper.
 
 ## Requirements
 
-The code is written for a standard scientific Python environment, including:
-- Python ≥ 3.9
-- NumPy
-- Matplotlib
+The code is written for a standard Julia environment.
 
 Additional requirements, if any, are documented in the corresponding notebooks.
 
