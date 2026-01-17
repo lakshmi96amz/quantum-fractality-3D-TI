@@ -1,1 +1,1 @@
-
+This directory contains Julia notebooks and scripts used to reproduce and analyze key computational results from the paper “Quantum fractality on the surface of topological insulators”, Phys. Rev. B 108, 155430 (2023). The work explores how gapless Dirac-fermion surface states of 3D topological insulators develop fractal characteristics when subjected to a self-similar Sierpiński-carpet potential, using numerical exact diagonalization and scaling analysis of inverse participation ratios (IPRs).
